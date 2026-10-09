@@ -26,13 +26,10 @@
 
 ## Projects
 
-<!-- EDIT: replace the three sample rows with your real projects. -->
-
 | Project | What it does | Stack | Links |
 | :-- | :-- | :-- | :-- |
-| **Project one** | One sentence on the problem it solves and who uses it. | Next.js, TypeScript, Tailwind CSS | [Repo](https://github.com/Raksha074/REPO-NAME) |
-| **Project two** | An API-driven app, for example one that calls Gemini or Claude. | React.js, Node.js, MongoDB | [Repo](https://github.com/Raksha074/REPO-NAME) |
-| **Project three** | A UI-focused build: a design system, dashboard or landing page. | JavaScript, Tailwind CSS, PostgreSQL | [Repo](https://github.com/Raksha074/REPO-NAME) |
+| **Ai-SupportBot** | An embeddable SaaS AI Customer Support Bot powered by Google Gemini API for real-time, context-aware assistance. | Next.js, Node.js, Gemini API, Scalekit | [Repo](https://github.com/Raksha074/Ai-SupportBot) <br> [Live](ai-support-bot-uzyh.vercel.app/) |
+| **Savoria** | A full-stack restaurant booking system featuring RBAC (Customer, Owner, Admin) and real-time table management. | React.js, Node.js, Express, MongoDB, JWT | [Repo](https://github.com/Raksha074/Savoria) <br> [Live](savoria-tau.vercel.app/) |
 
 <br>
 
