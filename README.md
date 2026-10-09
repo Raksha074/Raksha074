@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Raksha Narware, Full-Stack Software Engineer. Animated hero with a waving video." width="100%">
+<img src="hero.svg" alt="Raksha Narware, Full-Stack Software Engineer. Animated hero with a waving video." width="100%">
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="assets/about-life.svg" alt="About Raksha: a cozy coding workspace and a carousel of hobbies (specialty coffee, self-improvement books, aesthetic brand design)." width="100%">
+<img src="about-life.svg" alt="About Raksha: a cozy coding workspace and a carousel of hobbies (specialty coffee, self-improvement books, aesthetic brand design)." width="100%">
 </div>
 
 <br>
 
 <div align="center">
-<img src="assets/stack.svg" alt="Tech stack orbiting a glowing core: JavaScript, TypeScript, React.js, Next.js, Node.js, Tailwind CSS, MongoDB, PostgreSQL, Gemini API, Claude, UI, API integration, LLM." width="100%">
+<img src="stack.svg" alt="Tech stack orbiting a glowing core: JavaScript, TypeScript, React.js, Next.js, Node.js, Tailwind CSS, MongoDB, PostgreSQL, Gemini API, Claude, UI, API integration, LLM." width="100%">
 </div>
 
 <br>
 
 <div align="center">
-<img src="assets/id-dashboard.svg" alt="Lanyard ID badge for Raksha Narware next to KPI tiles summarising the stack." width="100%">
+<img src="id-dashboard.svg" alt="Lanyard ID badge for Raksha Narware next to KPI tiles summarising the stack." width="100%">
 </div>
 
 <br>
@@ -49,7 +49,7 @@
 ## Connect
 
 <div align="center">
-<a href="https://github.com/Raksha074"><img src="assets/connect.svg" alt="Raksha points to link cards for GitHub, email and repositories." width="100%"></a>
+<a href="https://github.com/Raksha074"><img src="connect.svg" alt="Raksha points to link cards for GitHub, email and repositories." width="100%"></a>
 
 [GitHub](https://github.com/Raksha074) &nbsp;|&nbsp; [Email](mailto:Rakshanarware2@gmail.com) &nbsp;|&nbsp; [Repositories](https://github.com/Raksha074?tab=repositories)
 
